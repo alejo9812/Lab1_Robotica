@@ -12,7 +12,7 @@ cargando el código al FlexPendat y realizando las calibraciones necesarias.
 
 Entregables:
 
-1. Descripción de la solución planteada.
+1. README_ Descripción de la solución planteada.
 2. Diagrama de flujo de acciones del robot.
 3. Plano de planta de la ubicación de cada uno de los elementos.
 4. Descripción de las funciones utilizadas.
